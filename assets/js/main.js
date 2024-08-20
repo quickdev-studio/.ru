@@ -68,7 +68,7 @@
                 if(result.isConfirmed) {
                     window.open(link, '_blank');
                 } else if (result.isDenied) {
-                    window.open("https://vk.com/im?media=&sel=-195500908");
+                    window.open("https://vk.com/im?sel=-223727162");
                 }
             });
 
